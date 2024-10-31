@@ -1,0 +1,6 @@
+path: C:/IT/YoloM/dataset  # Root dataset path
+train: images/train      # Train images folder path
+val: images/val          # Validation images folder path
+
+nc: 2                    # Number of classes (0 and 180 degrees)
+names: ["0", "1"]  # Class names

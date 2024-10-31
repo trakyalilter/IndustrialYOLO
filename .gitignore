@@ -1,0 +1,9 @@
+dataset
+images
+contoured_images
+runs
+ultralytics
+yoloenv
+__pycache__
+yolov8n.pt
+Predict.py
